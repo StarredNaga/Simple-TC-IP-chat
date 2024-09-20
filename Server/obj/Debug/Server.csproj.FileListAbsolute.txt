@@ -1,0 +1,7 @@
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\bin\Debug\Server.exe
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\bin\Debug\Server.pdb
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\obj\Debug\Server.exe
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\obj\Debug\Server.pdb

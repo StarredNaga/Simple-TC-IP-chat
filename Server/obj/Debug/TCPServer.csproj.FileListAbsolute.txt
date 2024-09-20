@@ -1,0 +1,11 @@
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\bin\Debug\Server.exe
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\bin\Debug\Server.pdb
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\bin\Debug\Client.exe
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\bin\Debug\Client.pdb
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\bin\Debug\Client.exe.config
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\obj\Debug\TCPServer.csproj.Up2Date
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\obj\Debug\Server.exe
+C:\Users\Zver\Desktop\Programming\Projects\My Programs\Server\Server\obj\Debug\Server.pdb
